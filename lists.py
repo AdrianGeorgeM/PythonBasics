@@ -1,4 +1,4 @@
-# Lists
+# Lists are mutable, ordered collections of elements that are indexed by integers starting at 0. Lists are defined by  square brackets [] and elements are separated by commas. Lists can contain any type of element, including other lists. Lists can be sliced, concatenated, sorted, and more.
 dogs = ["border collie", "australian cattle dog", "labrador retriever", 1, True]
 
 print("border collie" in dogs)
